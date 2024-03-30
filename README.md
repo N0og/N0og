@@ -1,7 +1,7 @@
 [![Gabriel's GitHub Banner](./BannerGitHub.png)](https://www.linkedin.com/in/gabriel-da-silva-nogueira/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-da-silva-nogueira)
-[![Email Badge](https://img.shields.io/badge/Email-devagabrielnog%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4285F4)](mailto:devagabrielnog@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email-devgabrielnog%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4285F4)](mailto:devgabrielnog@gmail.com)
 
 <h1 align="center"><b>Gabriel Nogueira - Desenvolvedor</b></h1>
 Olá! 👋 Eu sou Gabriel, um entusiasta da tecnologia e um desenvolvedor FullStack determinado a transformar ideias em realidade digital.
