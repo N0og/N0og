@@ -17,16 +17,16 @@ Como desenvolvedor FullStack, possuo uma sólida expertise em Front-End, Back-En
 ## Stack | Skills
 
 [![Java Badge](https://img.shields.io/badge/Java-Code-informational?style=flat&logo=java&logoColor=white&color=007396)](https://www.java.com/)
-[![Python Badge](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
+[![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-Code-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)](https://dotnet.microsoft.com/apps/aspnet)
+[![C# Badge](https://img.shields.io/badge/C%23-Code-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
-[![Go Badge](https://img.shields.io/badge/Go-Code-informational?style=flat&logo=go&logoColor=white&color=00ADD8)](https://golang.org/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-Code-informational?style=flat&logo=node.js&logoColor=white&color=339933)](https://nodejs.org/)
 [![Django Badge](https://img.shields.io/badge/Django-Code-informational?style=flat&logo=django&logoColor=white&color=092E20)](https://www.djangoproject.com/)
 [![Express Badge](https://img.shields.io/badge/Express-Code-informational?style=flat&logo=express&logoColor=white&color=000000)](https://expressjs.com/)
+[![React Badge](https://img.shields.io/badge/React-Code-informational?style=flat&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-Code-informational?style=flat&logo=node.js&logoColor=white&color=339933)](https://nodejs.org/)
+[![Python Badge](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
 [![TypeORM Badge](https://img.shields.io/badge/TypeORM-Code-informational?style=flat&logo=typeorm&logoColor=white&color=E83524)](https://typeorm.io/)
 [![ORM's Badge](https://img.shields.io/badge/ORM's-Code-informational?style=flat&logo=database&logoColor=white&color=008080)](https://en.wikipedia.org/wiki/Object-relational_mapping)
-[![React Badge](https://img.shields.io/badge/React-Code-informational?style=flat&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
-[![Vue.js Badge](https://img.shields.io/badge/Vue.js-Code-informational?style=flat&logo=vue.js&logoColor=white&color=4FC08D)](https://vuejs.org/)
 
 <details>
 <summary><b>More...</b></summary>
@@ -34,7 +34,6 @@ Como desenvolvedor FullStack, possuo uma sólida expertise em Front-End, Back-En
 [![HTML Badge](https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript Badge](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jQuery Badge](https://img.shields.io/badge/jQuery-Code-informational?style=flat&logo=jquery&logoColor=white&color=0769AD)](https://jquery.com/)
 [![MySQL Badge](https://img.shields.io/badge/MySQL-Code-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
 [![MariaDB Badge](https://img.shields.io/badge/MariaDB-Code-informational?style=flat&logo=mariadb&logoColor=white&color=003545)](https://mariadb.org/)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Code-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://www.postgresql.org/)
@@ -42,7 +41,7 @@ Como desenvolvedor FullStack, possuo uma sólida expertise em Front-End, Back-En
 [![Git Badge](https://img.shields.io/badge/Git-Code-informational?style=flat&logo=git&logoColor=white&color=F05032)](https://git-scm.com/)
 [![Docker Badge](https://img.shields.io/badge/Docker-Code-informational?style=flat&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
 [![Pandas Badge](https://img.shields.io/badge/Pandas-Code-informational?style=flat&logo=pandas&logoColor=white&color=150458)](https://pandas.pydata.org/)
-[![JavaFX Badge](https://img.shields.io/badge/JavaFX-Code-informational?style=flat&logo=java&logoColor=white&color=007396)](https://openjfx.io/)
+
 </details>
 
 <h2>📌Fixed Repositories</h2>
@@ -51,13 +50,14 @@ Como desenvolvedor FullStack, possuo uma sólida expertise em Front-End, Back-En
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Marketplace_Imobiliario&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/N0og/Plataforma_Apoio">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Plataforma_Apoio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/N0og/Automacao_Python">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Automacao_Python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/N0og/Painel_eSUS">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Painel_eSUS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <h2>GitHub Stats</h2>
 
