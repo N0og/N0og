@@ -1,81 +1,61 @@
-[![Gabriel's GitHub Banner](./BannerGH.png)](https://www.linkedin.com/in/gabriel-da-silva-nogueira/)
+# Gabriel Nogueira
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-da-silva-nogueira)
-[![Email Badge](https://img.shields.io/badge/Email-devgabrielnog%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=4285F4)](mailto:devgabrielnog@gmail.com)
+### Backend Software Engineer | Software Architecture | DevOps & Cloud Infrastructure | AI
 
-<h1 align="center"><b>Gabriel Nogueira - Desenvolvedor</b></h1>
-Olá! 👋 Eu sou Gabriel, um entusiasta da tecnologia e um desenvolvedor FullStack determinado a transformar ideias em realidade digital.
-
-## Sobre Mim
-
-Como desenvolvedor FullStack, possuo uma sólida expertise em Front-End, Back-End e gerenciamento de bancos de dados. Estou constantemente explorando novas tecnologias e técnicas para aprimorar minhas habilidades e oferecer soluções inovadoras.
-
-**Foco em Back-End:** Minha paixão pelo desenvolvimento reside na resolução de desafios complexos do back-end. Tenho grande afinidade em mergulhar na lógica dos sistemas e encontrar soluções eficientes para otimizar o desempenho e a eficácia.
-
-**Mente Aberta, Coração Colaborativo:** Sou um defensor fervoroso da importância da colaboração e do aprendizado mútuo. Estou sempre em busca de contribuir com projetos, aprender com colegas e compartilhar minhas próprias experiências. Acredito que é através da colaboração que alcançamos os melhores resultados.
-
-## Stack | Skills
-
-[![Java Badge](https://img.shields.io/badge/Java-Code-informational?style=flat&logo=java&logoColor=white&color=007396)](https://www.java.com/)
-[![ASP.NET Badge](https://img.shields.io/badge/ASP.NET-Code-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)](https://dotnet.microsoft.com/apps/aspnet)
-[![C# Badge](https://img.shields.io/badge/C%23-Code-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![TypeScript Badge](https://img.shields.io/badge/TypeScript-Code-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)](https://www.typescriptlang.org/)
-[![Django Badge](https://img.shields.io/badge/Django-Code-informational?style=flat&logo=django&logoColor=white&color=092E20)](https://www.djangoproject.com/)
-[![Express Badge](https://img.shields.io/badge/Express-Code-informational?style=flat&logo=express&logoColor=white&color=000000)](https://expressjs.com/)
-[![React Badge](https://img.shields.io/badge/React-Code-informational?style=flat&logo=react&logoColor=white&color=61DAFB)](https://reactjs.org/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-Code-informational?style=flat&logo=node.js&logoColor=white&color=339933)](https://nodejs.org/)
-[![Python Badge](https://img.shields.io/badge/Python-Code-informational?style=flat&logo=python&logoColor=white&color=3776AB)](https://www.python.org/)
-[![TypeORM Badge](https://img.shields.io/badge/TypeORM-Code-informational?style=flat&logo=typeorm&logoColor=white&color=E83524)](https://typeorm.io/)
-[![ORM's Badge](https://img.shields.io/badge/ORM's-Code-informational?style=flat&logo=database&logoColor=white&color=008080)](https://en.wikipedia.org/wiki/Object-relational_mapping)
-
-<details>
-<summary><b>More...</b></summary>
-
-[![HTML Badge](https://img.shields.io/badge/HTML-Code-informational?style=flat&logo=html5&logoColor=white&color=E34F26)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS Badge](https://img.shields.io/badge/CSS-Code-informational?style=flat&logo=css3&logoColor=white&color=1572B6)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-Code-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![MySQL Badge](https://img.shields.io/badge/MySQL-Code-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)](https://www.mysql.com/)
-[![MariaDB Badge](https://img.shields.io/badge/MariaDB-Code-informational?style=flat&logo=mariadb&logoColor=white&color=003545)](https://mariadb.org/)
-[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-Code-informational?style=flat&logo=postgresql&logoColor=white&color=336791)](https://www.postgresql.org/)
-[![MongoDB Badge](https://img.shields.io/badge/MongoDB-Code-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)](https://www.mongodb.com/)
-[![Git Badge](https://img.shields.io/badge/Git-Code-informational?style=flat&logo=git&logoColor=white&color=F05032)](https://git-scm.com/)
-[![Docker Badge](https://img.shields.io/badge/Docker-Code-informational?style=flat&logo=docker&logoColor=white&color=2496ED)](https://www.docker.com/)
-[![Pandas Badge](https://img.shields.io/badge/Pandas-Code-informational?style=flat&logo=pandas&logoColor=white&color=150458)](https://pandas.pydata.org/)
-
-</details>
-
-<h2>📌Fixed Repositories</h2>
-
-<a href="https://github.com/N0og/Marketplace_Imobiliario">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Marketplace_Imobiliario&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/N0og/Plataforma_Apoio">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Plataforma_Apoio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/N0og/Automacao_Python">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=N0og&repo=Automacao_Python&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Nogueira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-nogueira/)
+[![Email](https://img.shields.io/badge/Email-devgabrielnog%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:devgabrielnog@gmail.com)
 
 
-<h2>GitHub Stats</h2>
 
-<a href="https://github.com/N0og">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N0og&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+## 👨‍💻 Sobre mim
 
-<a href="https://github.com/N0og">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=N0og&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
-</a>
+Sou Engenheiro de Software com foco em **Backend, Arquitetura de Software e Infraestrutura**.
 
+Atuo na concepção e evolução de sistemas, buscando equilíbrio entre **qualidade técnica, escalabilidade, manutenibilidade e valor para o negócio**.
 
-## Boas Práticas 
-Não defino meu nível de senioridade, mas me considero capacitado para lidar com questões desafiadoras e resolver problemas complexos de forma eficiente. Sempre busco seguir boas práticas e convenções de acordo com as tecnologias utilizadas.
+Minha experiência combina desenvolvimento, arquitetura, integração de sistemas, bancos de dados, infraestrutura e liderança técnica.
 
-## Colaboração e Aprendizado
+Atualmente atuo como **Líder Técnico na Novetech Soluções Tecnológicas**.
 
-Estou sempre aberto para colaborar em projetos, ajudar colegas e aprender com aqueles que têm mais experiência. Sou calmo e compreensivo, e valorizo a troca de ideias e a cooperação em equipe. Participo regularmente de reuniões e estou pronto para contribuir com opiniões e decisões quando necessário.
+## 🚀 Principais áreas
 
+- Backend Engineering
+- Software Architecture
+- APIs & Integrações
+- Bancos SQL e NoSQL
+- DevOps & Cloud Infrastructure
+- Docker & Kubernetes
+- Sistemas distribuídos
+- Mensageria
+- Observabilidade
+- Liderança técnica
+- Inteligência Artificial
 
-<h3>Sinta-se à vontade para entrar em contato comigo para colaborações, perguntas ou apenas para trocar ideias!</h3>
+## 🛠️ Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## 💼 Atualmente
+
+**Founder — Pulseiras Conecta LTDA** - [Site Institucional Conecta](https://pulseirasconecta.com.br)
+
+**Founder — Quantisoft Inova Simples** 
+
+**Líder Técnico — Novetech Soluções Tecnológicas**
+
+Atuação em arquitetura, decisões técnicas, backend, infraestrutura, integrações e evolução de sistemas.
+
+---
+
+> Tecnologia que gera valor através de boas decisões de engenharia.
