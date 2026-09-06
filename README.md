@@ -3,7 +3,7 @@
 ### Backend Software Engineer | Software Architecture | DevOps & Cloud Infrastructure | AI
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Nogueira-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-nogueira/)
-[![Email](https://img.shields.io/badge/Email-devgabrielnog%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@quantisoft.com.br)
+[![Email](https://img.shields.io/badge/Email-contato%40quantisoft.com.br-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contato@quantisoft.com.br)
 
 
 
